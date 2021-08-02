@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arcadearthur
 - 👀 I’m interested in Game & Simulation developement
-- 🌱 I’m currently learning Shader programming
+- 🌱 I’m currently learning Shader programming in Unity
 - 💞️ I’m looking to collaborate on Narrative Experiences
 - 📫 How to reach me paul@paularthurmusic.com
 
