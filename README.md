@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arcadearthur
 - 👀 I’m interested in Game & Simulation developement
-- 🌱 I’m currently learning HSL shader programming uses
 - 💞️ I’m looking to collaborate on Interactive Experiences
 - 📫 How to reach me paul@paularthurmusic.com
 
