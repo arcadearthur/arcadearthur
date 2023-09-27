@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arcadearthur
-- 👀 I’m interested in Game & Simulation developement
+- 👀 I’m interested in Game & Simulation development
 - 💞️ I’m looking to collaborate on Interactive Experiences
 - 📫 How to reach me paul@paularthurmusic.com
 
